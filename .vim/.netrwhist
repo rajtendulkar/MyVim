@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/ptendulk/.vim/plugin'
+let g:netrw_dirhist_2='/home/ptendulk/.vim'
+let g:netrw_dirhist_3='/home/ptendulk/.vim/autoload'
+let g:netrw_dirhist_4='/home/ptendulk/.vim'
+let g:netrw_dirhist_5='/home/ptendulk'
+let g:netrw_dirhist_6='/home/ptendulk/.gconf'
+let g:netrw_dirhist_7='/home/ptendulk'
+let g:netrw_dirhist_8='/local/ptendulk/CHT_1A/kernel/modules/iosm'
+let g:netrw_dirhist_9='/local/ptendulk/CHT_1A'
